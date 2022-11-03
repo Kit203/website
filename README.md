@@ -1,4 +1,29 @@
-# About-Website-Features
+#User Stories
+
+#Languages Used
+Html,
+
+#Frameworks, Libraries, and Programs Used
+
+# Features
+Responsive on:
+Interactive Elements: 
+
+# Further Additions
+
+# Testing User Stories from User Experience Section
+
+# Further Testing
+
+# Bugs
+
+# Deployment
+
+# Local Deployment
+
+# Citations/Credits
+
+
 
 When Accessing this website's home screen you should be greeted with the following screens: 
 Home, About Us, Shop, Delivery, Fan Page, Charties/Affilations, Bot Commands, Buisness Inquiries, Cart, Sign In
